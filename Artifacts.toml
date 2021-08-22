@@ -1,0 +1,40 @@
+[[libigc]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cfb4b55ee600c5553e2d18872b3cb70fa09e3ad1"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "7a58a44ba0bb0833f2e1bcdce2ce2e3a321cf78a3e8eb08ee08e2fc383c51a3d"
+    url = "https://github.com/troels/igc.jl/releases/download/libigc-v1.0.8173+1/libigc.v1.0.8173.i686-linux-gnu-cxx03.tar.gz"
+[[libigc]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "76fa34bf2291025d229802a39c31a77ab668535d"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "f838799f4ad920bd232256f4eb598bb77854409b8a9c5a15b412b0a590702000"
+    url = "https://github.com/troels/igc.jl/releases/download/libigc-v1.0.8173+1/libigc.v1.0.8173.i686-linux-gnu-cxx11.tar.gz"
+[[libigc]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f4ce69d3caee7520e3c9e905e5e58b397006df43"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "d2ffd9d23d2c03312dcf1c76cf275d4000e5066a05638b7be0484ce1f4c651a3"
+    url = "https://github.com/troels/igc.jl/releases/download/libigc-v1.0.8173+1/libigc.v1.0.8173.x86_64-linux-gnu-cxx03.tar.gz"
+[[libigc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45764a7333ab0a21b9527bee6ab015fae1730778"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "10c49d162a9d2f301bee5df89ff3cc6bd8e6a4d3a35d4f13d0158556395d47a9"
+    url = "https://github.com/troels/igc.jl/releases/download/libigc-v1.0.8173+1/libigc.v1.0.8173.x86_64-linux-gnu-cxx11.tar.gz"
